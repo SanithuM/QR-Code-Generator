@@ -16,3 +16,8 @@ A simple and responsive **QR Code Generator** built using **HTML**, **CSS**, and
 - CSS3
 - JavaScript
 - QR Code API  [api.qrserver.com](https://goqr.me/api/)
+
+
+## 🌐 Live Demo
+
+🔗 [View Project]([https://your-live-demo-link.com](https://sanithum.github.io/QR-Code-Generator/))
