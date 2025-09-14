@@ -20,4 +20,4 @@ A simple and responsive **QR Code Generator** built using **HTML**, **CSS**, and
 
 ## 🌐 Live Demo
 
-🔗 [View Project]([https://your-live-demo-link.com](https://sanithum.github.io/QR-Code-Generator/))
+🔗 [View Project](https://sanithum.github.io/QR-Code-Generator/)
